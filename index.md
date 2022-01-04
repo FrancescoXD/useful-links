@@ -1,5 +1,5 @@
 # useful-links
-My own personal collection of links and projects.
+My personal collection of links and projects.
 
 ## Books
 [OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
