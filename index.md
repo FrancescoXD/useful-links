@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# useful-links
+My own personal collection of links and projects.
 
-You can use the [editor on GitHub](https://github.com/FrancescoXD/useful-links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Books
+[OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Websites
+[Cheat.sh](https://cheat.sh/) - A cheatsheet full of shell tips.
 
-### Markdown
+[Excalidraw](https://excalidraw.com/) - A collaborative hand-draw website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Transfer.sh](https://transfer.sh/) [Github](https://github.com/dutchcoders/transfer.sh/) - Easy and fast file sharing from the command-line.
 
-```markdown
-Syntax highlighted code block
+[Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 
-# Header 1
-## Header 2
-### Header 3
+[clbin](https://clbin.com/) - Command line pastebin.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrancescoXD/useful-links/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Vim adventures](https://vim-adventures.com/) - Learn VIM while playing a game.
