@@ -16,3 +16,5 @@ My personal collection of links and projects.
 [clbin](https://clbin.com/) - Command line pastebin.
 
 [Vim adventures](https://vim-adventures.com/) - Learn VIM while playing a game.
+
+[StackEdit](https://stackedit.io/) - In-browser Markdown editor.
