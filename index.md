@@ -18,3 +18,5 @@ My personal collection of links and projects.
 [Vim adventures](https://vim-adventures.com/) - Learn VIM while playing a game.
 
 [StackEdit](https://stackedit.io/) - In-browser Markdown editor.
+
+[have i been pwned?](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach.
