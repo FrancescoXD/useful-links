@@ -2,10 +2,10 @@
 My personal collection of links and projects.
 
 # Summary
-- [Books](Books)
-- [Websites](Websites)
-- [Learning](Learning)
-- [Programming Challenges](Programming-Challenges)
+- [Books](#Books)
+- [Websites](#Websites)
+- [Learning](#Learning)
+- [Programming Challenges](#Programming-Challenges)
 
 ## Books
 [OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
