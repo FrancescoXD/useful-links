@@ -7,8 +7,10 @@ My personal collection of links and projects.
 - [Learning](#Learning)
 - [Programming Challenges](#Programming-Challenges)
 
-## Books
-[OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
+<details>
+  <summary>## Books</summary>
+  [OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
+</details>
 
 ## Websites
 [Cheat.sh](https://cheat.sh/) - A cheatsheet full of shell tips.
