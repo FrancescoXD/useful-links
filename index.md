@@ -1,6 +1,12 @@
 # useful-links
 My personal collection of links and projects.
 
+# Summary
+- [Books](Books)
+- [Websites](Websites)
+- [Learning](Learning)
+- [Programming Challenges](Programming-Challenges)
+
 ## Books
 [OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
 
@@ -20,3 +26,15 @@ My personal collection of links and projects.
 [StackEdit](https://stackedit.io/) - In-browser Markdown editor.
 
 [have i been pwned?](https://haveibeenpwned.com/) - Check if your email or phone is in a data breach.
+
+## Learning
+[edX](https://www.edx.org/) - Free Online Courses by Harvard, MIT, & more.
+
+[Coursera](https://www.coursera.org/) - Online Courses & Credentials From Top Educators.
+
+[Codecademy](https://www.codecademy.com/) - Learn to Code - for Free.
+
+## Programming Challenges
+[HackerRank](https://www.hackerrank.com/)
+
+[Exercism](https://exercism.org/)
