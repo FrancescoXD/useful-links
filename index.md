@@ -1,16 +1,8 @@
 # useful-links
 My personal collection of links and projects.
 
-# Summary
-- [Books](#Books)
-- [Websites](#Websites)
-- [Learning](#Learning)
-- [Programming Challenges](#Programming-Challenges)
-
-<details>
-  <summary>## Books</summary>
-  [OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
-</details>
+## Books
+[OSDev Books](https://wiki.osdev.org/Books) - A collection of books for developing an OS or learning.
 
 ## Websites
 [Cheat.sh](https://cheat.sh/) - A cheatsheet full of shell tips.
