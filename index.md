@@ -32,3 +32,5 @@ My personal collection of links and projects.
 [HackerRank](https://www.hackerrank.com/)
 
 [Exercism](https://exercism.org/)
+
+[CodeWars](https://www.codewars.com/)
