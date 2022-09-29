@@ -24,6 +24,8 @@ My personal collection of links and projects.
 ### CyberSecurity
 [TryHackMe](https://tryhackme.com) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
+[HTB Academy](https://academy.hackthebox.com) - Cyber security training with hands-on exercises and labs made by Hack The Box, join now and advance your cyber security skills!
+
 ## Learning
 [edX](https://www.edx.org/) - Free Online Courses by Harvard, MIT, & more.
 
