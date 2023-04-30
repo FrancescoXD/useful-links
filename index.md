@@ -26,6 +26,10 @@ My personal collection of links and projects.
 
 [HTB Academy](https://academy.hackthebox.com) - Cyber security training with hands-on exercises and labs made by Hack The Box, join now and advance your cyber security skills!
 
+[HackTricks](https://book.hacktricks.xyz/) - Welcome to the page where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.
+
+[pwnable.kr](https://pwnable.kr/) - pwnable.kr is a non-commercial wargame site which provides various pwn challenges regarding system exploitation.
+
 ## Learning
 [edX](https://www.edx.org/) - Free Online Courses by Harvard, MIT, & more.
 
